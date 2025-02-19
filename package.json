@@ -19,6 +19,7 @@
   "homepage": "https://github.com/mihai-ciorobitca/raluca-elena-buliga-cv#readme",
   "dependencies": {
     "ejs": "^3.1.10",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "path": "^0.12.7"
   }
 }
